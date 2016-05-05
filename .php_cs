@@ -4,6 +4,8 @@ use Symfony\CS\Config\Config;
 use Symfony\CS\FixerInterface;
 use Symfony\CS\Finder\DefaultFinder;
 
+//debug test
+
 $fixers = [
     'blankline_after_open_tag',
     'braces',
